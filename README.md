@@ -1,5 +1,5 @@
 ## Hi there!  I'm Richard. 👋
-*I fix computer things in the NHS.*
+*Automator of all the things*
 
 ### 🌱 I’m currently learning
 - Web development with [The Odin Project](https://www.theodinproject.com/)
