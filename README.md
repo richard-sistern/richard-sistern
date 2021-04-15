@@ -26,5 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Helpful badges: 
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://worldvectorlogo.com/search/Shell
+https://github.com/devicons/devicon/tree/master/icons/bootstrap
 -->
