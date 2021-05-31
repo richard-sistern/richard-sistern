@@ -12,4 +12,6 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition](https://www.goodreads.com/review/show/4032234298?utm_medium=api&utm_source=rss) by Steven J. Spear (⭐️4.18)
+- [Inside the Nudge Unit: How Small Changes Can Make a Big Difference](https://www.goodreads.com/review/show/2990975452?utm_medium=api&utm_source=rss) by David Halpern (⭐️4.03)
 <!-- GOODREADS-LIST:END -->
