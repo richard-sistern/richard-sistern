@@ -8,7 +8,7 @@
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition](https://www.goodreads.com/review/show/4032234298?utm_medium=api&utm_source=rss) by Steven J. Spear (⭐️4.18)
+- [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐️4.8)
 <!-- GOODREADS-LIST:END -->
 
 ### 📫 Reach me on
