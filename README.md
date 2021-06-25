@@ -2,9 +2,8 @@
 *Automator of all the things*
 
 ### 🌱 I’m currently learning
-- Azure administration ([AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104))
-- Web development with [The Odin Project](https://www.theodinproject.com/)
-- Ruby with [Exercism](https://exercism.io/)
+- [Azure](https://github.com/richard-sistern/azure)
+- [Terraform](https://github.com/richard-sistern/terraform)
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-LIST:START -->
