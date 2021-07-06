@@ -7,7 +7,7 @@
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐️4.82)
+- [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐️4.77)
 <!-- GOODREADS-LIST:END -->
 
 ### 📫 Reach me on
