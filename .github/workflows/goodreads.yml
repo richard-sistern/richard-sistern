@@ -34,5 +34,6 @@ jobs:
           # Replace this with your goodreads user id
           goodreads_user_id: "75448858"
           shelf: "read"
-          max_books_count:	"1"
+          max_books_count:	"3"
           comment_tag_name: "GOODREADS-PREVIOUS"
+          sort_by_fields: ">user_read_at"
