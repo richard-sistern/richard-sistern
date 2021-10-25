@@ -24,3 +24,15 @@ jobs:
           shelf: "currently-reading"
           max_books_count:	"1"
           comment_tag_name: "GOODREADS-CURRENT"
+  update-previous-books:
+    name: Update README with my previous books
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          # Replace this with your goodreads user id
+          goodreads_user_id: "75448858"
+          shelf: "read"
+          max_books_count:	"1"
+          comment_tag_name: "GOODREADS-PREVIOUS"
