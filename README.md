@@ -6,9 +6,9 @@
 - [Terraform](https://github.com/richard-sistern/terraform)
 
 ### 📖 I'm currently reading
-<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-CURRENT:START -->
 - [Inside the Nudge Unit: How Small Changes Can Make a Big Difference](https://www.goodreads.com/review/show/2990975452?utm_medium=api&utm_source=rss) by David Halpern (⭐️4.03)
-<!-- GOODREADS-LIST:END -->
+<!-- GOODREADS-CURRENT:END -->
 
 ### 📫 Reach me on
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/richard-sistern-850057b4/)
