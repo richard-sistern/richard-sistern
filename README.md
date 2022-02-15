@@ -14,7 +14,7 @@
 <!-- GOODREADS-PREVIOUS:START -->
 - [Moneyland: Why Thieves and Crooks Now Rule the World and How To Take It Back](https://www.goodreads.com/review/show/3421222672?utm_medium=api&utm_source=rss) by Oliver Bullough (⭐️4.23)
 - [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐️4.59)
-- [The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition](https://www.goodreads.com/review/show/4032234298?utm_medium=api&utm_source=rss) by Steven J. Spear (⭐️4.19)
+- [The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition](https://www.goodreads.com/review/show/4032234298?utm_medium=api&utm_source=rss) by Steven J. Spear (⭐️4.18)
 <!-- GOODREADS-PREVIOUS:END -->
 
 ### 📫 Reach me on
