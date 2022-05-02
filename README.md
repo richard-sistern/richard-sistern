@@ -7,7 +7,7 @@
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-CURRENT:START -->
-- [Inside the Nudge Unit: How Small Changes Can Make a Big Difference](https://www.goodreads.com/review/show/2990975452?utm_medium=api&utm_source=rss) by David Halpern (⭐️4.01)
+- [Inside the Nudge Unit: How Small Changes Can Make a Big Difference](https://www.goodreads.com/review/show/2990975452?utm_medium=api&utm_source=rss) by David Halpern (⭐️4)
 <!-- GOODREADS-CURRENT:END -->
 
 ### 📚 I've recently read
