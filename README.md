@@ -2,8 +2,8 @@
 *Automator of all the things*
 
 ### 🌱 I’m currently learning
-- [Azure](https://github.com/richard-sistern/azure)
-- [Terraform](https://github.com/richard-sistern/terraform)
+- [Python](https://github.com/richard-sistern/python-bootcamp)
+- [Azure DevOps (AZ-400](https://github.com/richard-sistern/azure)
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-CURRENT:START -->
