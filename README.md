@@ -3,7 +3,7 @@
 
 ### 🌱 I’m currently learning
 - [Python](https://github.com/richard-sistern/python-bootcamp)
-- [Azure DevOps (AZ-400](https://github.com/richard-sistern/azure)
+- [Azure DevOps (AZ-400)](https://github.com/richard-sistern/azure)
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-CURRENT:START -->
