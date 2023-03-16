@@ -6,7 +6,7 @@
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-CURRENT:START -->
-- [Inside the Nudge Unit: How Small Changes Can Make a Big Difference](https://www.goodreads.com/review/show/2990975452?utm_medium=api&utm_source=rss) by David Halpern (⭐️3.99)
+- [Hidden Games: The Surprising Power of Game Theory to Explain Irrational Human Behavior](https://www.goodreads.com/review/show/5418014307?utm_medium=api&utm_source=rss) by Erez Yoeli (⭐️3.76)
 <!-- GOODREADS-CURRENT:END -->
 
 ### 📚 I've recently read
