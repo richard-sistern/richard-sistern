@@ -6,7 +6,7 @@
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-CURRENT:START -->
-- [Hidden Games: The Surprising Power of Game Theory to Explain Irrational Human Behavior](https://www.goodreads.com/review/show/5418014307?utm_medium=api&utm_source=rss) by Erez Yoeli (⭐️3.72)
+- [Hidden Games: The Surprising Power of Game Theory to Explain Irrational Human Behavior](https://www.goodreads.com/review/show/5418014307?utm_medium=api&utm_source=rss) by Erez Yoeli (⭐️3.71)
 <!-- GOODREADS-CURRENT:END -->
 
 ### 📚 I've recently read
