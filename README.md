@@ -13,7 +13,7 @@
 <!-- GOODREADS-PREVIOUS:START -->
 - [Inside the Nudge Unit: How Small Changes Can Make a Big Difference](https://www.goodreads.com/review/show/2990975452?utm_medium=api&utm_source=rss) by David Halpern (⭐️4)
 - [Meltdown: Why Our Systems Fail and What We Can Do About It](https://www.goodreads.com/review/show/4281524065?utm_medium=api&utm_source=rss) by Chris Clearfield (⭐️4.01)
-- [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐️4.55)
+- [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/review/show/4044658869?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐️4.56)
 <!-- GOODREADS-PREVIOUS:END -->
 
 ### 📫 Reach me on
