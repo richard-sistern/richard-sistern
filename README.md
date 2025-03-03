@@ -6,7 +6,7 @@
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-CURRENT:START -->
-- [Agile Conversations: Transform Your Conversations, Transform Your Culture](https://www.goodreads.com/review/show/5614149332?utm_medium=api&utm_source=rss) by Douglas Squirrel (⭐️4.18)
+- [Agile Conversations: Transform Your Conversations, Transform Your Culture](https://www.goodreads.com/review/show/5614149332?utm_medium=api&utm_source=rss) by Douglas Squirrel (⭐️4.16)
 <!-- GOODREADS-CURRENT:END -->
 
 ### 📚 I've recently read
