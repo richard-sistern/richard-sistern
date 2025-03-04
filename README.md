@@ -11,9 +11,9 @@
 
 ### 📚 I've recently read
 <!-- GOODREADS-PREVIOUS:START -->
+- [Same as Ever: A Guide to What Never Changes](https://www.goodreads.com/review/show/7371528845?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.13)
 - [Inside the Nudge Unit: How Small Changes Can Make a Big Difference](https://www.goodreads.com/review/show/2990975452?utm_medium=api&utm_source=rss) by David Halpern (⭐️4)
 - [Ego Is the Enemy](https://www.goodreads.com/review/show/5075183871?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.12)
-- [Meltdown: Why Our Systems Fail and What We Can Do About It](https://www.goodreads.com/review/show/4281524065?utm_medium=api&utm_source=rss) by Chris Clearfield (⭐️4)
 <!-- GOODREADS-PREVIOUS:END -->
 
 ### 📫 Reach me on
