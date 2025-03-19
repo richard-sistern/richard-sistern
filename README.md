@@ -6,7 +6,7 @@
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-CURRENT:START -->
-- [Brain Boost: Healthy Habits for a Happier Life](https://www.goodreads.com/review/show/7371545543?utm_medium=api&utm_source=rss) by Barbara J. Sahakian (⭐️3.8)
+- [Brain Boost: Healthy Habits for a Happier Life](https://www.goodreads.com/review/show/7371545543?utm_medium=api&utm_source=rss) by Barbara J. Sahakian (⭐️3.83)
 <!-- GOODREADS-CURRENT:END -->
 
 ### 📚 I've recently read
