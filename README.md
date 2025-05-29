@@ -12,7 +12,7 @@
 ### 📚 I've recently read
 <!-- GOODREADS-PREVIOUS:START -->
 - [Same as Ever: A Guide to What Never Changes](https://www.goodreads.com/review/show/7371528845?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.12)
-- [Inside the Nudge Unit: How Small Changes Can Make a Big Difference](https://www.goodreads.com/review/show/2990975452?utm_medium=api&utm_source=rss) by David Halpern (⭐️3.99)
+- [Inside the Nudge Unit: How Small Changes Can Make a Big Difference](https://www.goodreads.com/review/show/2990975452?utm_medium=api&utm_source=rss) by David Halpern (⭐️3.98)
 - [Ego Is the Enemy](https://www.goodreads.com/review/show/5075183871?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.12)
 <!-- GOODREADS-PREVIOUS:END -->
 
