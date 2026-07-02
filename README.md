@@ -6,7 +6,7 @@
 
 ### 📖 I'm currently reading
 <!-- GOODREADS-CURRENT:START -->
-- [Brain Boost](https://www.goodreads.com/review/show/7371545543?utm_medium=api&utm_source=rss) by Barbara J. Sahakian (⭐️3.43)
+- [Brain Boost](https://www.goodreads.com/review/show/7371545543?utm_medium=api&utm_source=rss) by Barbara J. Sahakian (⭐️3.42)
 <!-- GOODREADS-CURRENT:END -->
 
 ### 📚 I've recently read
